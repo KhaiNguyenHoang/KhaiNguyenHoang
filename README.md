@@ -1,34 +1,77 @@
-Nguyen Hoang Khai 
+# Nguyen Hoang Khai
 
-👨‍💻 Developer | 🎓 Student at FPT University
+👨‍💻 **Developer** | 🎓 **Student at FPT University**
 
-📍 Location: Vietnam
+📍 **Location**: Vietnam  
 
-🌐 Languages: Vietnamese (native), English, Japanese
+🌐 **Languages**: Vietnamese (native), English, Japanese
 
-About Me
+---
 
-Hi! I'm Nguyen Hoang Khai, a passionate developer currently studying at FPT University. I specialize in a variety of programming languages and technologies, and I’m always excited to learn new things and improve my skills.
+## About Me
 
+Hi! I'm **Nguyen Hoang Khai**, a passionate developer currently studying at **FPT University**. I specialize in a variety of programming languages and technologies, and I’m always excited to learn new things and improve my skills. 🚀
 
-Tech Stack:
+I enjoy building projects, solving complex problems, and collaborating with others. Feel free to check out my repositories and reach out if you want to connect! 🤝
 
-Languages: .NET, Java Spring Boot, C, HTML, CSS, Bootstrap 5
+---
 
-Databases: Postgres SQL, SQL Server
+## Tech Stack 💻
 
-Languages: Vietnamese (native), English, Japanese
+### **Back-end** 🌟:
+- **Languages**: 
+  - C# 
+  - Java (Spring Boot) 
+  - C 
+  - Node.js (Expected study)
+- **Frameworks**:
+  - **.NET**:
+    - ASP.NET Core 🔥
+    - ASP.NET MVC 🎨
+    - Entity Framework Core 💾
+  - **Java Spring Boot** 🚀
+  - **Node.js** (Expected study) 🖥️
+- **Databases**:
+  - PostgreSQL 🗄️
+  - SQL Server 💻
+  - MySQL (Expected study)🐬
 
-I enjoy building projects, solving complex problems, and collaborating with others. Feel free to check out my repositories and reach out if you want to connect!
+---
 
+### **Front-end** 🎨:
+- **Languages**: 
+  - HTML 🌐
+  - CSS 🎨
+  - JavaScript 💡
+- **Frameworks & Libraries**:
+  - **React.js** (Expected study) ⚛️
+  - **Vue.js** (Expected study) 🌿
+  - **Bootstrap 5** 💅
+  - **Tailwind CSS** (Expected study) 🌈
 
-Connect with Me:
+---
 
-Email: khai1234sd@gmail.com
+### **Tools & Technologies** 🛠️:
+- **Version Control**: Git, GitHub, GitLab 🧑‍💻
+- **CI/CD**: Jenkins, Azure DevOps (Expected study) 🔄
+- **Containerization**: Docker 🐳
 
-Phone: +84362975527
+---
 
-<!---
-KhaiNguyenHoang/KhaiNguyenHoang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Languages 🗣️
+
+- **Vietnamese**: Native 🇻🇳
+- **English**: 6.5 IELTs
+- **Japanese**: Intermediate (JLPT N4) 🇯🇵
+
+---
+
+## Contact 📧
+
+- **Email**: [khai1234sd@gmail.com](mailto:khai1234sd@gmail.com) 📬
+- **Phone**: +84362975527 📱
+- **GitHub**: [@KhaiNguyenHoang](https://github.com/KhaiNguyenHoang) 🖥️
+
+---
+
+I’m always looking to collaborate with others and grow my skills. Don’t hesitate to reach out if you have a project in mind or want to chat about development! 💬
