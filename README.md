@@ -19,8 +19,6 @@ I love building projects, solving complex problems, and collaborating with like-
 ### **Back-end** 🌟:
 - **Languages**:  
   - C#
-  - HTML, CSS
-  - JavaScript
   - Java (Spring Boot)  
   - C  
   - Node.js (Expected study)  
