@@ -73,7 +73,7 @@ If you're looking for a **creative** and **motivated** teammate, let's connect! 
 ## 🗣️ Languages
 - 🇻🇳 **Vietnamese:** Native  
 - 🌍 **English:** IELTS 6.5  
-- 🇯🇵 **Japanese:** Intermediate (JLPT N4)  
+- 🇯🇵 **Japanese:** Intermediate (JLPT N5)  
 
 ---
 
