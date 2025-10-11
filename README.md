@@ -1,6 +1,5 @@
 # 🌟 Nguyen Hoang Khai | Developer 🚀
 
-![Profile Banner](https://source.unsplash.com/1600x400/?technology,coding)
 
 👨‍💻 **Developer** | 🎓 **Student at FPT University**  
 📍 **Vietnam**  
@@ -16,6 +15,9 @@ I love building robust applications, exploring cutting-edge technologies, and so
 If you're looking for a **creative** and **motivated** teammate, let's connect! 🤝  
 
 ---
+
+## 📊 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KhaiNguyenHoang&layout=compact&langs_count=8&theme=tokyonight)
 
 ## 💻 Tech Stack
 
