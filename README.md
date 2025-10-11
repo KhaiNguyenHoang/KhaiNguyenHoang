@@ -17,7 +17,11 @@ If you're looking for a **creative** and **motivated** teammate, let's connect! 
 ---
 
 ## 📊 Most Used Languages
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KhaiNguyenHoang&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KhaiNguyenHoang&layout=compact&langs_count=8&theme=tokyonight)
+
 
 ## 💻 Tech Stack
 
