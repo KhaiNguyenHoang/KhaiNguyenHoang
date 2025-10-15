@@ -1,111 +1,101 @@
-# 🌟 Nguyen Hoang Khai | Developer 🚀
+<h2 align="center">Hello, I am Khai</h2>
 
-👨‍💻 **Developer** | 🎓 **Student at FPT University**  
-📍 **Vietnam**  
-🌐 **Languages:** Vietnamese (Native), English (IELTS 6.5), Japanese (JLPT N4)  
+###
 
----
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=khainguyenhoang&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khainguyenhoang&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-## 👋 About Me
-Hi there! I'm **Nguyen Hoang Khai**, a passionate developer and enthusiastic learner currently pursuing my studies at **FPT University**.  
+###
 
-I love building robust applications, exploring cutting-edge technologies, and solving real-world problems through code. My expertise spans both **back-end** and **front-end** development, and I am always eager to learn new tools and frameworks.  
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-If you're looking for a **creative** and **motivated** teammate, let's connect! 🤝  
+###
 
----
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="47" alt="javascript logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="47" alt="typescript logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="47" alt="react logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="47" alt="html5 logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="47" alt="css3 logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="47" alt="csharp logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="47" alt="apache logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="47" alt="amazonwebservices logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="47" alt="azure logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="47" alt="bootstrap logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="47" alt="dotnetcore logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="47" alt="dot-net logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="47" alt="eslint logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="47" alt="gitlab logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="47" alt="java logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="47" alt="kubernetes logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="47" alt="linux logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="47" alt="mysql logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="47" alt="mongodb logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="47" alt="nestjs logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="47" alt="nodejs logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuget/nuget-original.svg" height="47" alt="nuget logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="47" alt="postgresql logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="47" alt="redis logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="47" alt="redux logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="47" alt="spring logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="47" alt="express logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="47" alt="nextjs logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="47" alt="tailwindcss logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="47" alt="docker logo"  />
+</div>
 
-## 📈 GitHub Insights
+###
 
-### ⚡ Activity
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KhaiNguyenHoang&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KhaiNguyenHoang&theme=tokyonight)
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+</div>
 
-### 📊 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KhaiNguyenHoang&layout=compact&langs_count=8&theme=tokyonight)
+###
 
----
+<br clear="both">
 
-## 💻 Tech Stack
+<img src="https://raw.githubusercontent.com/khainguyenhoang/khainguyenhoang/output/snake.svg" alt="Snake animation" />
 
-### 🔹 **Back-End Development**
-- **Languages:**
-  - ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-  - ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-  - ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
-  - ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-  - ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-  
-- **Frameworks:**
-  - .NET Ecosystem:
-    - 🔥 ![ASP.NET Core](https://img.shields.io/badge/-ASP.NET_Core-5C2D91?style=flat&logo=dotnet&logoColor=white)
-    - 🎨 ![ASP.NET MVC](https://img.shields.io/badge/-ASP.NET_MVC-512BD4?style=flat&logo=dotnet&logoColor=white)
-    - 💾 ![Entity Framework](https://img.shields.io/badge/-Entity_Framework-512BD4?style=flat&logo=dotnet&logoColor=white)
-    - 🖥️ ![MAUI / XAML / WinForms](https://img.shields.io/badge/-MAUI/XAML/WinForms-5C2D91?style=flat&logo=dotnet&logoColor=white)
-  - Java:
-    - 🚀 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)  
-    - 🐘 ![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)  
-    - 🔌 ![JDBC](https://img.shields.io/badge/-JDBC-003B57?style=flat&logo=java&logoColor=white)  
-  - Node.js Ecosystem:
-    - ⚡ ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)  
-    - 🧩 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+###
 
-- **Databases & Storage:**
-  - 🗄️ ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-  - 💻 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
-  - 🐬 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-  - 🍃 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-  - ⚡ ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
-  - 🪣 ![MinIO](https://img.shields.io/badge/-MinIO-C72E49?style=flat&logo=minio&logoColor=white)
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=khainguyenhoang.khainguyenhoang&"  />
+</div>
 
-- **Authentication & Identity:**
-  - 🪪 ![circleID](https://img.shields.io/badge/-circleID-0085FF?style=flat&logo=openid&logoColor=white)
-  - 🔐 ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat&logo=json-web-tokens&logoColor=white)
-  - 🔑 ![OAuth2](https://img.shields.io/badge/-OAuth2-4285F4?style=flat&logo=auth0&logoColor=white)
-
----
-
-### 🎨 **Front-End Development**
-- **Languages:**
-  - 🌐 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
-  - 🎨 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
-  - 💡 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-  - 🧠 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-  
-- **Frameworks & Libraries:**
-  - ⚛️ ![React.js](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-  - ⏭️ ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
-  - 🌿 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white) (Expected study)
-  - 💅 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-  - 🌈 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
-  - 🎨 ![Chakra UI](https://img.shields.io/badge/-ChakraUI-319795?style=flat&logo=chakraui&logoColor=white)
-
----
-
-### 🛠️ **Tools & Technologies**
-- **Version Control:**  
-  - 🧑‍💻 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white), ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white), ![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)  
-- **CI/CD:**  
-  - 🔄 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white), ![Azure DevOps](https://img.shields.io/badge/-Azure_DevOps-0078D7?style=flat&logo=azure-devops&logoColor=white) (Expected study)  
-- **Containerization & Deployment:**  
-  - 🐳 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)  
-  - ☁️ ![MinIO](https://img.shields.io/badge/-MinIO-C72E49?style=flat&logo=minio&logoColor=white)  
-  - ⚙️ ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
-
----
-
-## 🗣️ Languages
-- 🇻🇳 **Vietnamese:** Native  
-- 🌍 **English:** IELTS 6.5  
-- 🇯🇵 **Japanese:** Intermediate (JLPT N5)  
-
----
-
-## 📧 Contact Me
-- 📩 **Email:** [khai1234sd@gmail.com](mailto:khai1234sd@gmail.com)  
-- 📱 **Phone:** [+84362975527](tel:+84362975527)  
-- 💻 **GitHub:** [@KhaiNguyenHoang](https://github.com/KhaiNguyenHoang)  
-
----
-
-⭐ **Fun Fact:** _"I believe in lifelong learning and always strive to improve my skills!"_ 🚀
+###
