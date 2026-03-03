@@ -2,7 +2,7 @@
 
 ###
 
-![GitHub Stats](https://card.shiina.xyz/card/KhaiNguyenHoang)
+<div align="center">![GitHub Stats](https://card.shiina.xyz/card/KhaiNguyenHoang)</div>
 
 ###
 
